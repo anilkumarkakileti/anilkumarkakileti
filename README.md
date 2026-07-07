@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics projects using Excel, SQL, Python, and Power BI<br><br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, and Open Source projects<br><br>🤝 I’m looking for help with Machine Learning, Data Engineering, and improving my analytical skills<br><br>🌱 I’m currently learning Python, SQL, Power BI, Pandas, NumPy, and Statistics<br><br>💬 Ask me about SQL, Excel, Python basics, Data Visualization, or Photoshop<br><br>⚡ Fun fact: I started my career as a VFX Matte Paint Artist before switching to Data Analytics.
+🔭 I’m currently working on Data Analytics projects using Excel, SQL, Python, and Power BI<br><br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, and Open Source projects<br><br>🤝 Currently expanding my skills in Machine Learning, Data Engineering, and Business Intelligence., and improving my analytical skills<br><br>🌱 I’m currently learning Python, SQL, Power BI, Pandas, NumPy, and Statistics<br><br>💬 Interested in solving business problems through data analysis and visualization.<br><br>⚡ Fun fact: I started my career as a VFX Matte Paint Artist before switching to Data Analytics.
 
 
 ## 🌐 Socials:
